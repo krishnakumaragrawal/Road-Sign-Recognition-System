@@ -1,0 +1,25 @@
+
+
+
+.dropzone{
+    border-style: dashed;
+    margin-top: 100px;
+}
+
+.error{
+    font-family: MerriweatherRegular;
+    font-size: 30px;
+    line-height: initial;
+    color: blue;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.resultHolder{
+    font-family: MerriweatherRegular;
+    font-size: 25px;
+    line-height: initial;
+    color: black;
+    margin-top: 50px;
+    text-align: center;
+}
